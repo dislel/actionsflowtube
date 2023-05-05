@@ -1,11 +1,9 @@
 on:
   youtube:
     channel_id:
-      - UCnCikd0s4i9KoDtaHPlK-JA
-      - UCseUQK4kC3x2x543nHtGpzw
+      - UC5PYHgAzJ1wLEidB58SK6Xw
     playlist_id:
-      - PL99D544ED5B1E58D8
-      - PL2qc-hH9Ip-SSUaZd_G8IxtecK0WZ-af-
+      - PLNvhiaSh0IpBH9sp2ozPwWFe5ZhQJKzAv
 jobs:
   print:
     name: Print
